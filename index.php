@@ -40,7 +40,7 @@ if($_SESSION['status'] == "loggedin"){
     display: none;
 }
 
-/* Next & previous buttons */
+/* Next & previous buttons  */
 .prev, .next {
   cursor: pointer;
   position: absolute;
